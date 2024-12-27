@@ -1,0 +1,343 @@
+SCR 4 0 RS1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
+SCR 4 32060 RS7d3c_1ee9bb229dabffe151848d7efa3c10f748e1a1cf "Custom: lyrics.lua" Cockos/lyrics.lua
+SCR 4 0 RS1cbf05b0c4f875518496f34a5ce45adefe05cb67 "Custom: Default_6.0_theme_adjuster.lua" Cockos/Default_6.0_theme_adjuster.lua
+SCR 4 0 RS6c2efb3f983d062c88752f161da4cbbd6ab222e9 "Custom: Default_7.0_theme_adjuster.lua" Cockos/Default_7.0_theme_adjuster.lua
+KEY 255 2280 0 0		 # Main : MediaKbd+Mute : DISABLED DEFAULT
+KEY 255 253 0 0		 # Main : Ctrl+Shift+Mousewheel : DISABLED DEFAULT
+KEY 255 153 0 0		 # Main : Ctrl+MultiRotate : DISABLED DEFAULT
+KEY 255 254 0 0		 # Main : Alt+Shift+Mousewheel : DISABLED DEFAULT
+KEY 255 250 0 0		 # Main : Alt+Mousewheel : DISABLED DEFAULT
+KEY 255 216 0 0		 # Main : HorizWheel : DISABLED DEFAULT
+KEY 255 251 0 0		 # Main : Ctrl+Alt+Mousewheel : DISABLED DEFAULT
+KEY 255 248 0 0		 # Main : Mousewheel : DISABLED DEFAULT
+KEY 255 218 0 0		 # Main : Alt+HorizWheel : DISABLED DEFAULT
+KEY 255 152 0 0		 # Main : MultiRotate : DISABLED DEFAULT
+KEY 255 184 0 0		 # Main : MultiVert : DISABLED DEFAULT
+KEY 255 168 0 0		 # Main : MultiHorz : DISABLED DEFAULT
+KEY 255 200 0 0		 # Main : MultiZoom : DISABLED DEFAULT
+KEY 255 201 0 0		 # Main : Ctrl+MultiZoom : DISABLED DEFAULT
+KEY 255 249 0 0		 # Main : Ctrl+Mousewheel : DISABLED DEFAULT
+KEY 255 12008 0 0		 # Main : MediaKbd+Play : DISABLED DEFAULT
+KEY 255 12264 0 0		 # Main : MediaKbd+Pause : DISABLED DEFAULT
+KEY 0 45 0 0		 # Main : - : DISABLED DEFAULT
+KEY 1 32808 0 0		 # Main : Down : DISABLED DEFAULT
+KEY 1 109 0 0		 # Main : Num - : DISABLED DEFAULT
+KEY 0 43 0 0		 # Main : + : DISABLED DEFAULT
+KEY 0 61 0 0		 # Main : = : DISABLED DEFAULT
+KEY 1 107 0 0		 # Main : Num + : DISABLED DEFAULT
+KEY 1 32806 0 0		 # Main : Up : DISABLED DEFAULT
+KEY 9 82 0 0		 # Main : Ctrl+R : DISABLED DEFAULT
+KEY 255 12520 0 0		 # Main : MediaKbd+Record : DISABLED DEFAULT
+KEY 255 3560 0 0		 # Main : MediaKbd+Stop : DISABLED DEFAULT
+KEY 1 82 0 0		 # Main : R : DISABLED DEFAULT
+KEY 1 76 0 0		 # Main : L : DISABLED DEFAULT
+KEY 17 80 0 0		 # Main : Alt+P : DISABLED DEFAULT
+KEY 21 71 0 0		 # Main : Alt+Shift+G : DISABLED DEFAULT
+KEY 17 83 0 0		 # Main : Alt+S : DISABLED DEFAULT
+KEY 9 84 0 0		 # Main : Ctrl+T : DISABLED DEFAULT
+KEY 9 81 0 0		 # Main : Ctrl+Q : DISABLED DEFAULT
+KEY 9 112 0 0		 # Main : Ctrl+F1 : DISABLED DEFAULT
+KEY 9 113 0 0		 # Main : Ctrl+F2 : DISABLED DEFAULT
+KEY 1 83 0 0		 # Main : S : DISABLED DEFAULT
+KEY 25 76 0 0		 # Main : Ctrl+Alt+L : DISABLED DEFAULT
+KEY 25 82 0 0		 # Main : Ctrl+Alt+R : DISABLED DEFAULT
+KEY 9 80 0 0		 # Main : Ctrl+P : DISABLED DEFAULT
+KEY 25 66 0 0		 # Main : Ctrl+Alt+B : DISABLED DEFAULT
+KEY 1 32813 0 0		 # Main : Insert : DISABLED DEFAULT
+KEY 1 27 0 0		 # Main : ESC : DISABLED DEFAULT
+KEY 17 13 0 0		 # Main : Alt+Enter : DISABLED DEFAULT
+KEY 25 83 0 0		 # Main : Ctrl+Alt+S : DISABLED DEFAULT
+KEY 9 78 0 0		 # Main : Ctrl+N : DISABLED DEFAULT
+KEY 9 79 0 0		 # Main : Ctrl+O : DISABLED DEFAULT
+KEY 9 83 0 0		 # Main : Ctrl+S : DISABLED DEFAULT
+KEY 9 90 0 0		 # Main : Ctrl+Z : DISABLED DEFAULT
+KEY 13 90 0 0		 # Main : Ctrl+Shift+Z : DISABLED DEFAULT
+KEY 9 107 0 0		 # Main : Ctrl+Num + : DISABLED DEFAULT
+KEY 9 32801 0 0		 # Main : Ctrl+Page Up : DISABLED DEFAULT
+KEY 1 71 0 0		 # Main : G : DISABLED DEFAULT
+KEY 1 85 0 0		 # Main : U : DISABLED DEFAULT
+KEY 9 71 0 0		 # Main : Ctrl+G : DISABLED DEFAULT
+KEY 9 65 0 0		 # Main : Ctrl+A : DISABLED DEFAULT
+KEY 0 60 0 0		 # Main : < : DISABLED DEFAULT
+KEY 0 62 0 0		 # Main : > : DISABLED DEFAULT
+KEY 0 44 0 0		 # Main : , : DISABLED DEFAULT
+KEY 0 46 0 0		 # Main : . : DISABLED DEFAULT
+KEY 17 88 0 0		 # Main : Alt+X : DISABLED DEFAULT
+KEY 1 87 0 0		 # Main : W : DISABLED DEFAULT
+KEY 1 32804 0 0		 # Main : Home : DISABLED DEFAULT
+KEY 255 13032 0 0		 # Main : MediaKbd+Rew : DISABLED DEFAULT
+KEY 1 32803 0 0		 # Main : End : DISABLED DEFAULT
+KEY 255 12776 0 0		 # Main : MediaKbd+FF : DISABLED DEFAULT
+KEY 1 32 0 0		 # Main : Space : DISABLED DEFAULT
+KEY 9 67 0 0		 # Main : Ctrl+C : DISABLED DEFAULT
+KEY 9 88 0 0		 # Main : Ctrl+X : DISABLED DEFAULT
+KEY 5 83 0 0		 # Main : Shift+S : DISABLED DEFAULT
+KEY 9 74 0 0		 # Main : Ctrl+J : DISABLED DEFAULT
+KEY 17 76 0 0		 # Main : Alt+L : DISABLED DEFAULT
+KEY 25 90 0 0		 # Main : Ctrl+Alt+Z : DISABLED DEFAULT
+KEY 1 13 0 0		 # Main : Enter : DISABLED DEFAULT
+KEY 9 32 0 0		 # Main : Ctrl+Space : DISABLED DEFAULT
+KEY 255 3816 0 0		 # Main : MediaKbd+PlayPause : DISABLED DEFAULT
+KEY 25 77 0 0		 # Main : Ctrl+Alt+M : DISABLED DEFAULT
+KEY 9 77 0 0		 # Main : Ctrl+M : DISABLED DEFAULT
+KEY 9 32805 0 0		 # Main : Ctrl+Left : DISABLED DEFAULT
+KEY 9 32807 0 0		 # Main : Ctrl+Right : DISABLED DEFAULT
+KEY 5 32805 0 0		 # Main : Shift+Left : DISABLED DEFAULT
+KEY 5 32807 0 0		 # Main : Shift+Right : DISABLED DEFAULT
+KEY 1 32805 0 0		 # Main : Left : DISABLED DEFAULT
+KEY 1 32807 0 0		 # Main : Right : DISABLED DEFAULT
+KEY 13 78 0 0		 # Main : Ctrl+Shift+N : DISABLED DEFAULT
+KEY 25 69 0 0		 # Main : Ctrl+Alt+E : DISABLED DEFAULT
+KEY 0 96 0 0		 # Main : ` : DISABLED DEFAULT
+KEY 1 32801 0 0		 # Main : Page Up : DISABLED DEFAULT
+KEY 13 32806 0 0		 # Main : Ctrl+Shift+Up : DISABLED DEFAULT
+KEY 13 32808 0 0		 # Main : Ctrl+Shift+Down : DISABLED DEFAULT
+KEY 1 32802 0 0		 # Main : Page Down : DISABLED DEFAULT
+KEY 0 126 0 0		 # Main : ~ : DISABLED DEFAULT
+KEY 9 32806 0 0		 # Main : Ctrl+Up : DISABLED DEFAULT
+KEY 255 6888 0 0		 # Main : MediaKbd+Mic+ : DISABLED DEFAULT
+KEY 9 32808 0 0		 # Main : Ctrl+Down : DISABLED DEFAULT
+KEY 255 6632 0 0		 # Main : MediaKbd+Mic- : DISABLED DEFAULT
+KEY 1 104 0 0		 # Main : Num 8 : DISABLED DEFAULT
+KEY 1 98 0 0		 # Main : Num 2 : DISABLED DEFAULT
+KEY 1 102 0 0		 # Main : Num 6 : DISABLED DEFAULT
+KEY 1 100 0 0		 # Main : Num 4 : DISABLED DEFAULT
+KEY 1 103 0 0		 # Main : Num 7 : DISABLED DEFAULT
+KEY 1 105 0 0		 # Main : Num 9 : DISABLED DEFAULT
+KEY 1 97 0 0		 # Main : Num 1 : DISABLED DEFAULT
+KEY 1 99 0 0		 # Main : Num 3 : DISABLED DEFAULT
+KEY 255 13288 0 0		 # Main : MediaKbd+Chan+ : DISABLED DEFAULT
+KEY 255 13544 0 0		 # Main : MediaKbd+Chan- : DISABLED DEFAULT
+KEY 13 84 0 0		 # Main : Ctrl+Shift+T : DISABLED DEFAULT
+KEY 21 84 0 0		 # Main : Alt+Shift+T : DISABLED DEFAULT
+KEY 17 32806 0 0		 # Main : Alt+Up : DISABLED DEFAULT
+KEY 17 32808 0 0		 # Main : Alt+Down : DISABLED DEFAULT
+KEY 17 32805 0 0		 # Main : Alt+Left : DISABLED DEFAULT
+KEY 17 32807 0 0		 # Main : Alt+Right : DISABLED DEFAULT
+KEY 17 71 0 0		 # Main : Alt+G : DISABLED DEFAULT
+KEY 0 39 0 0		 # Main : ' : DISABLED DEFAULT
+KEY 0 34 0 0		 # Main : " : DISABLED DEFAULT
+KEY 5 32806 0 0		 # Main : Shift+Up : DISABLED DEFAULT
+KEY 5 32808 0 0		 # Main : Shift+Down : DISABLED DEFAULT
+KEY 1 77 0 0		 # Main : M : DISABLED DEFAULT
+KEY 1 48 0 0		 # Main : 0 : DISABLED DEFAULT
+KEY 1 49 0 0		 # Main : 1 : DISABLED DEFAULT
+KEY 1 50 0 0		 # Main : 2 : DISABLED DEFAULT
+KEY 1 51 0 0		 # Main : 3 : DISABLED DEFAULT
+KEY 1 52 0 0		 # Main : 4 : DISABLED DEFAULT
+KEY 1 53 0 0		 # Main : 5 : DISABLED DEFAULT
+KEY 1 54 0 0		 # Main : 6 : DISABLED DEFAULT
+KEY 1 55 0 0		 # Main : 7 : DISABLED DEFAULT
+KEY 1 56 0 0		 # Main : 8 : DISABLED DEFAULT
+KEY 1 57 0 0		 # Main : 9 : DISABLED DEFAULT
+KEY 5 77 0 0		 # Main : Shift+M : DISABLED DEFAULT
+KEY 0 91 0 0		 # Main : [ : DISABLED DEFAULT
+KEY 0 93 0 0		 # Main : ] : DISABLED DEFAULT
+KEY 5 82 0 0		 # Main : Shift+R : DISABLED DEFAULT
+KEY 17 77 0 0		 # Main : Alt+M : DISABLED DEFAULT
+KEY 13 83 0 0		 # Main : Ctrl+Shift+S : DISABLED DEFAULT
+KEY 21 83 0 0		 # Main : Alt+Shift+S : DISABLED DEFAULT
+KEY 5 48 0 0		 # Main : Shift+0 : DISABLED DEFAULT
+KEY 5 57 0 0		 # Main : Shift+9 : DISABLED DEFAULT
+KEY 5 56 0 0		 # Main : Shift+8 : DISABLED DEFAULT
+KEY 5 55 0 0		 # Main : Shift+7 : DISABLED DEFAULT
+KEY 0 123 0 0		 # Main : { : DISABLED DEFAULT
+KEY 0 125 0 0		 # Main : } : DISABLED DEFAULT
+KEY 9 100 0 0		 # Main : Ctrl+Num 4 : DISABLED DEFAULT
+KEY 9 102 0 0		 # Main : Ctrl+Num 6 : DISABLED DEFAULT
+KEY 17 100 0 0		 # Main : Alt+Num 4 : DISABLED DEFAULT
+KEY 17 102 0 0		 # Main : Alt+Num 6 : DISABLED DEFAULT
+KEY 25 80 0 0		 # Main : Ctrl+Alt+P : DISABLED DEFAULT
+KEY 17 82 0 0		 # Main : Alt+R : DISABLED DEFAULT
+KEY 5 78 0 0		 # Main : Shift+N : DISABLED DEFAULT
+KEY 5 67 0 0		 # Main : Shift+C : DISABLED DEFAULT
+KEY 25 84 0 0		 # Main : Ctrl+Alt+T : DISABLED DEFAULT
+KEY 25 86 0 0		 # Main : Ctrl+Alt+V : DISABLED DEFAULT
+KEY 5 70 0 0		 # Main : Shift+F : DISABLED DEFAULT
+KEY 5 76 0 0		 # Main : Shift+L : DISABLED DEFAULT
+KEY 17 68 0 0		 # Main : Alt+D : DISABLED DEFAULT
+KEY 255 6376 0 0		 # Main : MediaKbd+MicMute : DISABLED DEFAULT
+KEY 25 32808 0 0		 # Main : Ctrl+Alt+Down : DISABLED DEFAULT
+KEY 255 3048 0 0		 # Main : MediaKbd+Track+ : DISABLED DEFAULT
+KEY 25 32806 0 0		 # Main : Ctrl+Alt+Up : DISABLED DEFAULT
+KEY 255 3304 0 0		 # Main : MediaKbd+Track- : DISABLED DEFAULT
+KEY 29 32808 0 0		 # Main : Ctrl+Alt+Shift+Down : DISABLED DEFAULT
+KEY 29 32806 0 0		 # Main : Ctrl+Alt+Shift+Up : DISABLED DEFAULT
+KEY 255 4072 0 0		 # Main : MediaKbd+Mail : DISABLED DEFAULT
+KEY 255 11496 0 0		 # Main : MediaKbd+MicOnOff : DISABLED DEFAULT
+KEY 9 32802 0 0		 # Main : Ctrl+Page Down : DISABLED DEFAULT
+KEY 9 32814 0 0		 # Main : Ctrl+Delete : DISABLED DEFAULT
+KEY 5 112 0 0		 # Main : Shift+F1 : DISABLED DEFAULT
+KEY 17 32 0 0		 # Main : Alt+Space : DISABLED DEFAULT
+KEY 9 219 0 0		 # Main : Ctrl+AGUDO : DISABLED DEFAULT
+KEY 9 221 0 0		 # Main : Ctrl+[ : DISABLED DEFAULT
+KEY 9 188 0 0		 # Main : Ctrl+, : DISABLED DEFAULT
+KEY 9 190 0 0		 # Main : Ctrl+. : DISABLED DEFAULT
+KEY 25 188 0 0		 # Main : Ctrl+Alt+, : DISABLED DEFAULT
+KEY 25 190 0 0		 # Main : Ctrl+Alt+. : DISABLED DEFAULT
+KEY 29 82 0 0		 # Main : Ctrl+Alt+Shift+R : DISABLED DEFAULT
+KEY 21 67 0 0		 # Main : Alt+Shift+C : DISABLED DEFAULT
+KEY 1 114 0 0		 # Main : F3 : DISABLED DEFAULT
+KEY 1 122 0 0		 # Main : F11 : DISABLED DEFAULT
+KEY 1 9 0 0		 # Main : Tab : DISABLED DEFAULT
+KEY 5 9 0 0		 # Main : Shift+Tab : DISABLED DEFAULT
+KEY 17 66 0 0		 # Main : Alt+B : DISABLED DEFAULT
+KEY 17 67 0 0		 # Main : Alt+C : DISABLED DEFAULT
+KEY 25 32802 0 0		 # Main : Ctrl+Alt+Page Down : DISABLED DEFAULT
+KEY 25 32801 0 0		 # Main : Ctrl+Alt+Page Up : DISABLED DEFAULT
+KEY 1 86 0 0		 # Main : V : DISABLED DEFAULT
+KEY 1 80 0 0		 # Main : P : DISABLED DEFAULT
+KEY 9 69 0 0		 # Main : Ctrl+E : DISABLED DEFAULT
+KEY 9 76 0 0		 # Main : Ctrl+L : DISABLED DEFAULT
+KEY 1 115 0 0		 # Main : F4 : DISABLED DEFAULT
+KEY 1 116 0 0		 # Main : F5 : DISABLED DEFAULT
+KEY 1 117 0 0		 # Main : F6 : DISABLED DEFAULT
+KEY 1 118 0 0		 # Main : F7 : DISABLED DEFAULT
+KEY 1 119 0 0		 # Main : F8 : DISABLED DEFAULT
+KEY 1 120 0 0		 # Main : F9 : DISABLED DEFAULT
+KEY 5 115 0 0		 # Main : Shift+F4 : DISABLED DEFAULT
+KEY 5 116 0 0		 # Main : Shift+F5 : DISABLED DEFAULT
+KEY 5 117 0 0		 # Main : Shift+F6 : DISABLED DEFAULT
+KEY 5 118 0 0		 # Main : Shift+F7 : DISABLED DEFAULT
+KEY 5 119 0 0		 # Main : Shift+F8 : DISABLED DEFAULT
+KEY 5 120 0 0		 # Main : Shift+F9 : DISABLED DEFAULT
+KEY 0 63 0 0		 # Main : ? : DISABLED DEFAULT
+KEY 5 69 0 0		 # Main : Shift+E : DISABLED DEFAULT
+KEY 13 32805 0 0		 # Main : Ctrl+Shift+Left : DISABLED DEFAULT
+KEY 13 32807 0 0		 # Main : Ctrl+Shift+Right : DISABLED DEFAULT
+KEY 9 48 0 0		 # Main : Ctrl+0 : DISABLED DEFAULT
+KEY 9 49 0 0		 # Main : Ctrl+1 : DISABLED DEFAULT
+KEY 9 50 0 0		 # Main : Ctrl+2 : DISABLED DEFAULT
+KEY 9 51 0 0		 # Main : Ctrl+3 : DISABLED DEFAULT
+KEY 9 52 0 0		 # Main : Ctrl+4 : DISABLED DEFAULT
+KEY 9 53 0 0		 # Main : Ctrl+5 : DISABLED DEFAULT
+KEY 9 54 0 0		 # Main : Ctrl+6 : DISABLED DEFAULT
+KEY 9 55 0 0		 # Main : Ctrl+7 : DISABLED DEFAULT
+KEY 9 56 0 0		 # Main : Ctrl+8 : DISABLED DEFAULT
+KEY 9 57 0 0		 # Main : Ctrl+9 : DISABLED DEFAULT
+KEY 1 32814 0 0		 # Main : Delete : DISABLED DEFAULT
+KEY 0 33 0 0		 # Main : ! : DISABLED DEFAULT
+KEY 0 64 0 0		 # Main : @ : DISABLED DEFAULT
+KEY 255 2792 0 0		 # Main : MediaKbd+Vol+ : DISABLED DEFAULT
+KEY 255 2536 0 0		 # Main : MediaKbd+Vol- : DISABLED DEFAULT
+KEY 1 68 0 0		 # Main : D : DISABLED DEFAULT
+KEY 25 71 0 0		 # Main : Ctrl+Alt+G : DISABLED DEFAULT
+KEY 5 71 0 0		 # Main : Shift+G : DISABLED DEFAULT
+KEY 5 90 0 0		 # Main : Shift+Z : DISABLED DEFAULT
+KEY 1 90 0 0		 # Main : Z : DISABLED DEFAULT
+KEY 17 90 0 0		 # Main : Alt+Z : DISABLED DEFAULT
+KEY 5 54 0 0		 # Main : Shift+6 : DISABLED DEFAULT
+KEY 5 53 0 0		 # Main : Shift+5 : DISABLED DEFAULT
+KEY 5 52 0 0		 # Main : Shift+4 : DISABLED DEFAULT
+KEY 5 51 0 0		 # Main : Shift+3 : DISABLED DEFAULT
+KEY 9 9 0 0		 # Main : Ctrl+Tab : DISABLED DEFAULT
+KEY 1 69 0 0		 # Main : E : DISABLED DEFAULT
+KEY 25 78 0 0		 # Main : Ctrl+Alt+N : DISABLED DEFAULT
+KEY 9 115 0 0		 # Main : Ctrl+F4 : DISABLED DEFAULT
+KEY 13 77 0 0		 # Main : Ctrl+Shift+M : DISABLED DEFAULT
+KEY 1 88 0 0		 # Main : X : DISABLED DEFAULT
+KEY 5 88 0 0		 # Main : Shift+X : DISABLED DEFAULT
+KEY 17 84 0 0		 # Main : Alt+T : DISABLED DEFAULT
+KEY 25 70 0 0		 # Main : Ctrl+Alt+F : DISABLED DEFAULT
+KEY 13 70 0 0		 # Main : Ctrl+Shift+F : DISABLED DEFAULT
+KEY 1 70 0 0		 # Main : F : DISABLED DEFAULT
+KEY 9 66 0 0		 # Main : Ctrl+B : DISABLED DEFAULT
+KEY 29 84 0 0		 # Main : Ctrl+Alt+Shift+T : DISABLED DEFAULT
+KEY 1 78 0 0		 # Main : N : DISABLED DEFAULT
+KEY 9 68 0 0		 # Main : Ctrl+D : DISABLED DEFAULT
+KEY 13 68 0 0		 # Main : Ctrl+Shift+D : DISABLED DEFAULT
+KEY 1 89 0 0		 # Main : Y : DISABLED DEFAULT
+KEY 13 67 0 0		 # Main : Ctrl+Shift+C : DISABLED DEFAULT
+KEY 13 88 0 0		 # Main : Ctrl+Shift+X : DISABLED DEFAULT
+KEY 1 113 0 0		 # Main : F2 : DISABLED DEFAULT
+KEY 0 95 0 0		 # Main : _ : DISABLED DEFAULT
+KEY 13 9 0 0		 # Main : Ctrl+Shift+Tab : DISABLED DEFAULT
+KEY 5 86 0 0		 # Main : Shift+V : DISABLED DEFAULT
+KEY 17 49 0 0		 # Main : Alt+1 : DISABLED DEFAULT
+KEY 17 50 0 0		 # Main : Alt+2 : DISABLED DEFAULT
+KEY 17 51 0 0		 # Main : Alt+3 : DISABLED DEFAULT
+KEY 17 52 0 0		 # Main : Alt+4 : DISABLED DEFAULT
+KEY 17 53 0 0		 # Main : Alt+5 : DISABLED DEFAULT
+KEY 17 54 0 0		 # Main : Alt+6 : DISABLED DEFAULT
+KEY 17 55 0 0		 # Main : Alt+7 : DISABLED DEFAULT
+KEY 17 56 0 0		 # Main : Alt+8 : DISABLED DEFAULT
+KEY 17 57 0 0		 # Main : Alt+9 : DISABLED DEFAULT
+KEY 17 48 0 0		 # Main : Alt+0 : DISABLED DEFAULT
+KEY 5 87 0 0		 # Main : Shift+W : DISABLED DEFAULT
+KEY 29 83 0 0		 # Main : Ctrl+Alt+Shift+S : DISABLED DEFAULT
+KEY 9 86 0 0		 # Main : Ctrl+V : DISABLED DEFAULT
+KEY 13 71 0 0		 # Main : Ctrl+Shift+G : DISABLED DEFAULT
+KEY 1 84 0 0		 # Main : T : DISABLED DEFAULT
+KEY 5 84 0 0		 # Main : Shift+T : DISABLED DEFAULT
+KEY 25 88 0 0		 # Main : Ctrl+Alt+X : DISABLED DEFAULT
+KEY 13 86 0 0		 # Main : Ctrl+Shift+V : DISABLED DEFAULT
+KEY 176 1039 12 0		 # Main : MIDI Chan 1 CC 15 : Track: Set volume for master track (MIDI CC/OSC only)
+KEY 176 1031 20 0		 # Main : MIDI Chan 1 CC 7 : Track: Set volume for track 01 (MIDI CC/OSC only)
+KEY 176 1034 21 0		 # Main : MIDI Chan 1 CC 10 : Track: Set pan for track 01 (MIDI CC/OSC only)
+KEY 176 1256 25 0		 # Main : MIDI Chan 1 CC 104 : Track: Toggle record arm for track 01
+KEY 176 1168 26 0		 # Main : MIDI Chan 1 CC 16 : Track: Set mute for track 01 (MIDI CC/OSC only)
+KEY 177 1159 28 0		 # Main : MIDI Chan 2 CC 7 : Track: Set volume for track 02 (MIDI CC/OSC only)
+KEY 177 1162 29 0		 # Main : MIDI Chan 2 CC 10 : Track: Set pan for track 02 (MIDI CC/OSC only)
+KEY 177 1129 33 0		 # Main : MIDI Chan 2 CC 105 : Track: Toggle record arm for track 02
+KEY 177 1169 34 0		 # Main : MIDI Chan 2 CC 17 : Track: Set mute for track 02 (MIDI CC/OSC only)
+KEY 178 1159 36 0		 # Main : MIDI Chan 3 CC 7 : Track: Set volume for track 03 (MIDI CC/OSC only)
+KEY 178 1034 37 0		 # Main : MIDI Chan 3 CC 10 : Track: Set pan for track 03 (MIDI CC/OSC only)
+KEY 178 1130 41 0		 # Main : MIDI Chan 3 CC 106 : Track: Toggle record arm for track 03
+KEY 178 1170 42 0		 # Main : MIDI Chan 3 CC 18 : Track: Set mute for track 03 (MIDI CC/OSC only)
+KEY 179 1031 44 0		 # Main : MIDI Chan 4 CC 7 : Track: Set volume for track 04 (MIDI CC/OSC only)
+KEY 179 1034 45 0		 # Main : MIDI Chan 4 CC 10 : Track: Set pan for track 04 (MIDI CC/OSC only)
+KEY 179 1131 49 0		 # Main : MIDI Chan 4 CC 107 : Track: Toggle record arm for track 04
+KEY 179 1171 50 0		 # Main : MIDI Chan 4 CC 19 : Track: Set mute for track 04 (MIDI CC/OSC only)
+KEY 180 1159 52 0		 # Main : MIDI Chan 5 CC 7 : Track: Set volume for track 05 (MIDI CC/OSC only)
+KEY 180 1162 53 0		 # Main : MIDI Chan 5 CC 10 : Track: Set pan for track 05 (MIDI CC/OSC only)
+KEY 180 1132 57 0		 # Main : MIDI Chan 5 CC 108 : Track: Toggle record arm for track 05
+KEY 180 1172 58 0		 # Main : MIDI Chan 5 CC 20 : Track: Set mute for track 05 (MIDI CC/OSC only)
+KEY 181 1159 60 0		 # Main : MIDI Chan 6 CC 7 : Track: Set volume for track 06 (MIDI CC/OSC only)
+KEY 181 1034 61 0		 # Main : MIDI Chan 6 CC 10 : Track: Set pan for track 06 (MIDI CC/OSC only)
+KEY 181 1133 65 0		 # Main : MIDI Chan 6 CC 109 : Track: Toggle record arm for track 06
+KEY 181 1173 66 0		 # Main : MIDI Chan 6 CC 21 : Track: Set mute for track 06 (MIDI CC/OSC only)
+KEY 182 1159 68 0		 # Main : MIDI Chan 7 CC 7 : Track: Set volume for track 07 (MIDI CC/OSC only)
+KEY 182 1162 69 0		 # Main : MIDI Chan 7 CC 10 : Track: Set pan for track 07 (MIDI CC/OSC only)
+KEY 182 1134 73 0		 # Main : MIDI Chan 7 CC 110 : Track: Toggle record arm for track 07
+KEY 182 1174 74 0		 # Main : MIDI Chan 7 CC 22 : Track: Set mute for track 07 (MIDI CC/OSC only)
+KEY 183 1159 76 0		 # Main : MIDI Chan 8 CC 7 : Track: Set volume for track 08 (MIDI CC/OSC only)
+KEY 183 1034 77 0		 # Main : MIDI Chan 8 CC 10 : Track: Set pan for track 08 (MIDI CC/OSC only)
+KEY 183 1135 81 0		 # Main : MIDI Chan 8 CC 111 : Track: Toggle record arm for track 08
+KEY 183 1175 82 0		 # Main : MIDI Chan 8 CC 23 : Track: Set mute for track 08 (MIDI CC/OSC only)
+KEY 184 1159 84 0		 # Main : MIDI Chan 9 CC 7 : Track: Set volume for track 09 (MIDI CC/OSC only)
+KEY 184 1162 85 0		 # Main : MIDI Chan 9 CC 10 : Track: Set pan for track 09 (MIDI CC/OSC only)
+KEY 184 1170 89 0		 # Main : MIDI Chan 9 CC 18 : Track: Toggle record arm for track 09
+KEY 184 1168 90 0		 # Main : MIDI Chan 9 CC 16 : Track: Set mute for track 09 (MIDI CC/OSC only)
+KEY 185 1159 92 0		 # Main : MIDI Chan 10 CC 7 : Track: Set volume for track 10 (MIDI CC/OSC only)
+KEY 185 1162 93 0		 # Main : MIDI Chan 10 CC 10 : Track: Set pan for track 10 (MIDI CC/OSC only)
+KEY 185 1170 97 0		 # Main : MIDI Chan 10 CC 18 : Track: Toggle record arm for track 10
+KEY 185 1168 98 0		 # Main : MIDI Chan 10 CC 16 : Track: Set mute for track 10 (MIDI CC/OSC only)
+KEY 186 1159 100 0		 # Main : MIDI Chan 11 CC 7 : Track: Set volume for track 11 (MIDI CC/OSC only)
+KEY 186 1034 101 0		 # Main : MIDI Chan 11 CC 10 : Track: Set pan for track 11 (MIDI CC/OSC only)
+KEY 186 1170 105 0		 # Main : MIDI Chan 11 CC 18 : Track: Toggle record arm for track 11
+KEY 186 1168 106 0		 # Main : MIDI Chan 11 CC 16 : Track: Set mute for track 11 (MIDI CC/OSC only)
+KEY 187 1159 108 0		 # Main : MIDI Chan 12 CC 7 : Track: Set volume for track 12 (MIDI CC/OSC only)
+KEY 187 1162 109 0		 # Main : MIDI Chan 12 CC 10 : Track: Set pan for track 12 (MIDI CC/OSC only)
+KEY 187 1170 113 0		 # Main : MIDI Chan 12 CC 18 : Track: Toggle record arm for track 12
+KEY 187 1168 114 0		 # Main : MIDI Chan 12 CC 16 : Track: Set mute for track 12 (MIDI CC/OSC only)
+KEY 188 1031 116 0		 # Main : MIDI Chan 13 CC 7 : Track: Set volume for track 13 (MIDI CC/OSC only)
+KEY 188 1162 117 0		 # Main : MIDI Chan 13 CC 10 : Track: Set pan for track 13 (MIDI CC/OSC only)
+KEY 188 1170 121 0		 # Main : MIDI Chan 13 CC 18 : Track: Toggle record arm for track 13
+KEY 188 1168 122 0		 # Main : MIDI Chan 13 CC 16 : Track: Set mute for track 13 (MIDI CC/OSC only)
+KEY 189 1031 124 0		 # Main : MIDI Chan 14 CC 7 : Track: Set volume for track 14 (MIDI CC/OSC only)
+KEY 189 1162 125 0		 # Main : MIDI Chan 14 CC 10 : Track: Set pan for track 14 (MIDI CC/OSC only)
+KEY 189 1042 129 0		 # Main : MIDI Chan 14 CC 18 : Track: Toggle record arm for track 14
+KEY 189 1168 130 0		 # Main : MIDI Chan 14 CC 16 : Track: Set mute for track 14 (MIDI CC/OSC only)
+KEY 190 1031 132 0		 # Main : MIDI Chan 15 CC 7 : Track: Set volume for track 15 (MIDI CC/OSC only)
+KEY 190 1034 133 0		 # Main : MIDI Chan 15 CC 10 : Track: Set pan for track 15 (MIDI CC/OSC only)
+KEY 190 1042 137 0		 # Main : MIDI Chan 15 CC 18 : Track: Toggle record arm for track 15
+KEY 190 1040 138 0		 # Main : MIDI Chan 15 CC 16 : Track: Set mute for track 15 (MIDI CC/OSC only)
+KEY 191 1031 140 0		 # Main : MIDI Chan 16 CC 7 : Track: Set volume for track 16 (MIDI CC/OSC only)
+KEY 191 1162 141 0		 # Main : MIDI Chan 16 CC 10 : Track: Set pan for track 16 (MIDI CC/OSC only)
+KEY 191 1170 145 0		 # Main : MIDI Chan 16 CC 18 : Track: Toggle record arm for track 16
+KEY 191 1168 146 0		 # Main : MIDI Chan 16 CC 16 : Track: Set mute for track 16 (MIDI CC/OSC only)
+KEY 176 60 992 0		 # Main : MIDI Chan 1 CC 60 : Transport: Scrub/jog (MIDI CC relative/absolute only)
+KEY 176 1272 1013 0		 # Main : MIDI Chan 1 CC 120 : Transport: Record
+KEY 176 1142 1016 0		 # Main : MIDI Chan 1 CC 118 : Transport: Stop
+KEY 176 1140 40042 0		 # Main : MIDI Chan 1 CC 116 : Transport: Go to start of project
+KEY 176 1271 40073 0		 # Main : MIDI Chan 1 CC 119 : Transport: Play/pause

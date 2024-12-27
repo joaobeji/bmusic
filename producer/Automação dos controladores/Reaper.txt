@@ -1,0 +1,26 @@
+
+	OS PANS:
+	1. Track: Set pan for track 01 (MIDI CC/OSC only)
+	
+	
+	FADER DE VOLUME:
+	1. Track: Set volume for track 01 (MIDI CC/OSC only)
+	
+	MUTAR Track:
+	1. Track: Set mute for track 01 (MIDI CC/OSC only)
+	
+	GRAVAÇÃO POR Track:
+	1. Track: Toggle record arm for track 01
+	
+	PLAT/PAUSE:
+	Transport: Play/pause
+	
+	STOP
+	Transport: Stop
+	
+	VOLTAR NO INICIO:
+	Transport: Go to start of project
+	
+	GRAVAÇÃO PRINCIPAL:
+	Transport: Record
+	
